@@ -7,3 +7,4 @@
 ### Gini Model:
 
 <img src="https://github.com/ttariqaziz/decision_tree_coffee_case/blob/main/Gini_Model_2.png" width="800" height="550"></img>
+
